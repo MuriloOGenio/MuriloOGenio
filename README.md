@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=4D0487&width=435&lines=Hello+World%2C+I'm+Murilo+Eugenio;Future+brazilian+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=4D0487&width=435&lines=Hello+World%2C+I'm+Murilo+Eugenio;Future+brazilian+developer)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
